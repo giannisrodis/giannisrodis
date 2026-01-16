@@ -1,4 +1,4 @@
-# Ioannis (Giannis) Rodis — Portfolio
+# Ioannis Rodis — Portfolio
 
 Welcome — this repository contains my portfolio and CV.
 
