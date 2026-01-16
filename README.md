@@ -1,6 +1,6 @@
 <h1>Hi, I'm Ioannis! <br/><a href="https://github.com/giannisrodis">Software Developer</a>, <a href="https://www.linkedin.com/in/ioannis-rodis-b1936236a/">Function Owner</a>, <a href="https://www.royalbavarianliga.de/teaminfo.php?teamid=o2288">Football Team Manager</a></h1>
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>👨‍💻 Programming Skills:</h2>
 
 - <b>C++</b>
 
