@@ -85,7 +85,7 @@ Hi — I'm Ioannis (Giannis) Rodis. This repository hosts my professional portfo
 
 - Email: [giannisrodis@hotmail.com](mailto:giannisrodis@hotmail.com)
 - GitHub: https://github.com/giannisrodis
-- LinkedIn: (add your LinkedIn URL)
+- LinkedIn: https://www.linkedin.com/in/ioannis-rodis-b1936236a/
 
 ---
 
